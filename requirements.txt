@@ -1,0 +1,17 @@
+langchain_community
+tiktoken
+langchainhub
+langchain
+langgraph
+tavily-python
+python-dotenv
+google-generativeai
+langchain-google-genai
+langchain-groq
+langchain-nomic
+langchain-text-splitters
+sentence-transformers 
+streamlit
+langchain-openai
+ipykernel
+chromadb 
